@@ -108,4 +108,4 @@ Contributions to this project are welcome. Please follow these standard guidelin
 
 ## License
 
-License information to be added. For now, please assume standard academic research use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
